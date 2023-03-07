@@ -15,14 +15,6 @@ body{
 	text-align: center;
 }
 
-/*propriedades prefixadas pelos mecanismos de renderização :
-
-webkit para o Chrome e o Safari,
--moz para o Firefox, 
--o para o Opera, 
--ms para o Internet Explorer). 
-}*/
-
 #container img {
 	width: 120px;
 	height: 120px;
@@ -66,3 +58,11 @@ input.submit {
 	background: -o-linear-gradient(to bottom, #faa600, #f68a00);
 	background: linear-gradient(to bottom, #faa600, #f68a00);
 }
+
+/*propriedades prefixadas pelos mecanismos de renderização :
+
+webkit para o Chrome e o Safari,
+-moz para o Firefox, 
+-o para o Opera, 
+-ms para o Internet Explorer). 
+}*/
